@@ -8,5 +8,8 @@ namespace MyExampleGITSolution
 {
     class ANewClass
     {
+        static void newMethod()
+        {
+        }
     }
 }
