@@ -19,7 +19,7 @@ namespace MyExampleGITSolution
             Application.Run(new Form1());
         }
 
-        static void NewMethodToShowAChange()
+        static void NewMethodToShowAChange() 
         {
             throw new NotImplementedException();
         }
