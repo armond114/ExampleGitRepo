@@ -26,7 +26,7 @@ namespace MyExampleGITSolution
 
         static void AnotherNewMethodToShowChanges()
         {
-            throw new NotImplementedException();
+            throw new NotImplementedException(); 
         } 
     }
 }
